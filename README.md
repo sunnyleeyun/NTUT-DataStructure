@@ -1,4 +1,5 @@
 # NTUT - DataStructure
+*Updated: Nov. 1, 2021*
 
 ## Slides
 - [Python Primer](https://www.slideshare.net/secret/xRNgZtPnwrTHl1)
